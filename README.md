@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou Melchisedek S Lima 👋</h1>
+<h1 align="center">Olá! Sou Melchisedek de Sousa Lima 👋</h1>
 
 <p align="center">
   🚀 Futuro Cientista da Computação | 💻 Apaixonado por Tecnologia e IA | 🎯 Focado em Ciencia de Dados ou Desenvolvimento de Games
@@ -26,23 +26,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 📚 **Aprendendo no momento:**  
-- Desenvolvimento de Sistemas  
+- Desenvolvimento de Jogos
 - Inteligência Artificial e Aprendizado de Máquina
-
----
-
-### 📊 Estatísticas do GitHub  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melky-yc&layout=compact&langs_count=6&theme=dark" />
-</div>
 
 ---
 
 ### 📫 Onde Me Encontrar  
 📧 **Email:** (melchisedeksl@gmail.com)    
 📷 **Instagram:** (https://www.instagram.com/melkyyc_/?hl=en)
-💼 **LinkedIn:** [linkedin.com/in/seuLinkedIn](https://linkedin.com/in/seuLinkedIn)  
 
 ---
 
