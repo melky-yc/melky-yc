@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou Melchisedek de Sousa Lima 👋</h1>
 
 <p align="center">
-  🚀 Futuro Cientista da Computação | 💻 Apaixonado por Tecnologia e IA | 🎯 Focado em Cientista de Dados ou Desenvolvedor de Games
+  🚀 Futuro Cientista da Computação | 💻 Apaixonado por Tecnologia e IA | 🎯 Focado em ser Cientista de Dados ou Desenvolvedor de Games
 </p>
 
 ---
