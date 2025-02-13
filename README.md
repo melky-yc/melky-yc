@@ -9,7 +9,7 @@
 ### 🧐 About Me  
 🔹 A determined student, always eager to learn something new.  
 🔹 Currently studying **Computer Science**.  
-🔹 Learning **Python, JavaScript, and Java**.  
+🔹 Learning **Python**.  
 🔹 Building a solid foundation to enter the tech and software development industry.  
 
 ---
