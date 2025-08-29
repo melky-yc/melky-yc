@@ -54,4 +54,4 @@
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* 🚀  
+💡 *"Success is the sum of small efforts, repeated day in and day out."* 🚀  
