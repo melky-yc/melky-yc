@@ -35,8 +35,7 @@
 
 📚 **Currently Learning:**  
 - ⚙️ Backend Development with **Node.js & Python**  
-- 📱 Mobile Development with **Flutter**  
-- ☕ Object-Oriented Programming with **Java**  
+- 📱 Mobile Development with **Flutter**    
 
 ---
 
