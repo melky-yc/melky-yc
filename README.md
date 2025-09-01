@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Melchisedek de Sousa Lima 👋</h1>
 
 <p align="center">
-  🚀 Future Software Engineer | 💻 Passionate About Technology & Backend Development | 🎯 Focused on Becoming a Backend Developer
+  🚀 Future Backend Development | 💻 Passionate About Technology & Software Engineer | 🎯 Focused on Becoming a Backend Developer
 </p>
 
 <p align="center">
