@@ -22,8 +22,8 @@ Minha missão é criar **interfaces funcionais, bonitas e acessíveis**, sempre 
 ---
 
 ## 📫 Contato
-- 🌐 melchisedek.vercel.app(#)  
-- 💼 www.linkedin.com/in/melchisedek-de-sousa-lima(#)  
+- 🌐 melchisedek.vercel.app
+- 💼 www.linkedin.com/in/melchisedek-de-sousa-lima
 - 📧 melchisedeksl@gmail.com  
 
 ---
