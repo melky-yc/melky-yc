@@ -49,6 +49,7 @@ Minha missão é criar **interfaces funcionais, bonitas e acessíveis**, sempre 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melky-yc)](https://github.com/melky-yc/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=melky-yc&layout=compact&theme=dracula)
 
 ---
 
