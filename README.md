@@ -48,7 +48,4 @@ Minha missão é criar **interfaces funcionais, bonitas e acessíveis**, sempre 
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?melky-yc=anuraghazra&show_icons=true&theme=transparent)
-
-
 <p align="center">✨ <i>"Code is design, design is code."</i> ✨</p>
