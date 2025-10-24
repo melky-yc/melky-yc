@@ -1,6 +1,6 @@
 # 🎨 Melchisedek Lima | Front-end Developer & UI/UX Designer  
 
-Bem-vindo(a)! 👋  
+# Bem-vindo(a)! 👋  
 Sou **Melchisedek**, estudante de **Ciência da Computação** e **Desenvolvedor Web**, apaixonado por **tecnologia, design e inovação**.  
 Aqui você encontra projetos que unem **código limpo, interfaces intuitivas e foco total na experiência do usuário**.  
 
@@ -19,7 +19,6 @@ Aqui você encontra projetos que unem **código limpo, interfaces intuitivas e f
 ### ⚙️ Back-end  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
 ### 🎨 UI/UX  
