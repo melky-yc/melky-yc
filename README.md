@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B;Pode+me+chamar+de+Melky.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Application+Security+%26+IAM)](https://git.io/typing-svg)
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;text=Melchisedek%20%7C%20Lima&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=35&amp;fontSize=54&amp;desc=Estagi%C3%A1rio%20de%20TI%20%7C%20Application%20Security%20%7C%20IAM%20%7C%20Web%20Security&amp;descAlign=50&amp;descAlignY=62&amp;animation=twinkling&amp;color=0:0B1220,50:0A3D62,100:1E90FF"
+    alt="Banner"
+  />
+</p>
 
 <h1>🔐 Sobre mim</h1>
 
