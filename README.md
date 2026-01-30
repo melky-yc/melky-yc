@@ -7,7 +7,7 @@
 
 <h1>🔐 Sobre mim</h1>
 
-- 🎓 <strong>Estudante</strong> de Ciência da Computação  
+- 🎓 <strong>Estudante</strong> de Ciência da Computação na <a href="https://www.uninassau.edu.br/" target="_blank">UNINASSAU"
 - 🏛️ <strong>Estagiário de TI</strong> na <a href="https://medsafebrasil.com.br" target="_blank">Medsafe Brasil</a>
 - 🔐 Atuação com <strong>Application Security</strong>, <strong>IAM</strong> e <strong>Web Security</strong>  
 - 🌐 Experiência em <strong>desenvolvimento web (front e back)</strong> como base para segurança aplicada  
