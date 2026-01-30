@@ -1,41 +1,42 @@
 <!-- =========================================================
      MELCHISEDEK (CHEFE) • GITHUB PROFILE README
-     Blue Defense Theme • HTML Safe Version (PT-BR)
+     Blue Defense Theme • HTML Safe Version (PT-BR) • XML-safe (&amp;)
 ========================================================= -->
 
 <!-- BANNER TOPO (AZUL DEFESA) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20%7C%20Chefe&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Full%20Stack%20(Web)%20%7C%20AppSec%20%26%20WebSec&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;text=Melchisedek%20%7C%20Chefe&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=35&amp;fontSize=54&amp;desc=Estagi%C3%A1rio%20de%20TI%20%7C%20Application%20Security%20%7C%20IAM%20%7C%20Web%20Security&amp;descAlign=50&amp;descAlignY=62&amp;animation=twinkling&amp;color=0:0B1220,50:0A3D62,100:1E90FF"
+    alt="Banner"
   />
 </p>
 
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Defesa+forte+%C3%A9+arquitetura+bem+feita%2C+valida%C3%A7%C3%A3o+correta+e+controle+de+acesso."
+    src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=18&amp;duration=2600&amp;pause=800&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=AppSec+%2B+IAM%3A+seguran%C3%A7a+de+aplica%C3%A7%C3%B5es+no+c%C3%B3digo%2C+na+arquitetura+e+no+acesso."
     alt="Texto animado"
   />
 </p>
 
 <!-- BOTÕES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A3D62?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/melchisedeksl" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A3D62?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:melchisedeksl@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://github.com/SEUUSUARIO" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
-<!-- CONTADORES (REALISTA E LIMPO) -->
+<!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile%20Views&color=1E90FF" />
-  <img src="https://img.shields.io/github/followers/SEUUSUARIO?label=Followers&color=0A3D62" />
-  <img src="https://img.shields.io/github/stars/SEUUSUARIO?label=Stars&color=0A3D62" />
+  <img src="https://komarev.com/ghpvc/?username=melky-yc&amp;label=Profile%20Views&amp;color=1E90FF" />
+  <img src="https://img.shields.io/github/followers/melky-yc?label=Followers&amp;color=0A3D62" />
+  <img src="https://img.shields.io/github/stars/melky-yc?label=Stars&amp;color=0A3D62" />
 </p>
 
 <hr/>
@@ -43,39 +44,35 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Quem eu sou:</b> Estudante de <b>Ciência da Computação</b>, com base forte em <b>desenvolvimento web</b> (front e back).</li>
-  <li><b>Direção:</b> Foco em <b>Application Security</b> e <b>Web Security</b> — segurança aplicada no código, não só ferramenta.</li>
-  <li><b>Na prática:</b> estudo e implemento <b>autenticação</b>, <b>sessões</b>, <b>controle de acesso</b>, <b>validação</b>, <b>tratamento de erros</b> e <b>boas práticas</b>.</li>
-  <li><b>Meta:</b> evoluir para <b>AppSec Engineer</b> com mentalidade de engenharia: design seguro, testes e manutenção.</li>
+  <li><b>Perfil:</b> Estudante de Ciência da Computação com foco em <b>Application Security</b> e <b>controle de acessos (IAM)</b>, atuando em <b>ambiente governamental crítico</b>. </li>
+  <li><b>Atuação atual:</b> Estágio em Segurança operacional de sistemas, <b>gestão de identidades e permissões</b>, integridade de aplicações e mitigação de riscos com atenção à <b>LGPD</b>. </li>
+  <li><b>Estudos aplicados:</b> <b>OWASP Top 10</b> e <b>OWASP API Security</b> com visão preventiva baseada em falhas técnicas e de lógica.</li>
+  <li><b>Experiência complementar:</b> Desenvolvimento web (front/back) e base em programação (<b>Python</b> e <b>Web</b>) para automação e melhoria contínua.</li>
 </ul>
 
 <pre>
 const chefe = {
-  nome: "Melchisedek (Chefe)",
-  foco: ["Full Stack Web", "AppSec", "WebSec"],
-  pilares: [
-    "Fundamentos (lógica, redes, HTTP, banco de dados)",
-    "Código seguro (validação, authn/authz, sessões)",
-    "Prática (projetos, labs, writeups e melhorias contínuas)"
-  ],
-  objetivo:
-    "Construir e proteger aplicações com segurança por padrão (security by design)."
+  nome: "Melchisedek Lima",
+  foco: ["Application Security", "IAM (Controle de Acessos)", "Web Security"],
+  contexto: "Ambiente governamental crítico",
+  base: ["Python", "Web (HTML/CSS/JS)", "APIs", "Automação"],
+  norte: "Security by design + menor privilégio + validação forte + observabilidade"
 };
 </pre>
 
 <hr/>
 
-<h2>🧩 Stack (vida real)</h2>
+<h2>🧩 Stack (experiência real + foco em AppSec)</h2>
 
 <div align="center">
-  <h4>🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <h4>🌐 Frontend </h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
   <h4>🧱 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,java" />
 
-  <h4>🗄️ Banco de Dados</h4>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+  <h4>🗄️ Bancos</h4>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
 
   <h4>⚙️ Ferramentas</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
@@ -83,14 +80,45 @@ const chefe = {
 
 <hr/>
 
-<h2>🔐 Segurança aplicada (o que eu realmente faço)</h2>
+<h2>🔐 Foco técnico (AppSec + IAM)</h2>
 
 <ul>
-  <li><b>Web/AppSec:</b> OWASP Top 10 (XSS, SQLi, CSRF, SSRF, auth/IDOR, etc.).</li>
-  <li><b>Boas práticas:</b> validação de entradas, encoding, headers, rate-limit, logging seguro.</li>
-  <li><b>Autenticação e sessões:</b> cookies seguros, expiração, proteção contra brute force.</li>
-  <li><b>APIs:</b> design seguro, controle de acesso, erros e respostas consistentes.</li>
+  <li><b>IAM na prática:</b> criação/alteração/revogação de acessos, revisão de permissões, <b>menor privilégio</b> e rastreabilidade.</li>
+  <li><b>Segurança de aplicações web:</b> OWASP Top 10, falhas de lógica, validação de entradas, sessões e controle de acesso.</li>
+  <li><b>Segurança de APIs:</b> autenticação/autorização, erros padronizados, rate-limit, logging seguro e mitigação de abuso.</li>
 </ul>
+
+<hr/>
+
+<h2>🧭 Plano de carreira (simples e direto)</h2>
+
+<table>
+  <tr>
+    <th align="left">Horizonte</th>
+    <th align="left">Meta</th>
+    <th align="left">Foco prático (projetos/entregas)</th>
+  </tr>
+  <tr>
+    <td><b>Agora (0–6 meses)</b></td>
+    <td>Consolidar base AppSec + IAM</td>
+    <td>Políticas de acesso, revisão de permissões, hardening de sessão, OWASP Top 10 + OWASP API Security com writeups</td>
+  </tr>
+  <tr>
+    <td><b>6–12 meses</b></td>
+    <td>Virar referência “segurança no produto”</td>
+    <td>Checklist de secure coding, threat modeling simples, testes de API, logs/alertas e documentação interna</td>
+  </tr>
+  <tr>
+    <td><b>12–24 meses</b></td>
+    <td>Transição natural para AppSec Engineer (junior)</td>
+    <td>Pipeline com SAST/DAST, revisão de PR focada em segurança, RBAC/ABAC, mitigação de IDOR, padrões de auth</td>
+  </tr>
+  <tr>
+    <td><b>24+ meses</b></td>
+    <td>AppSec Engineer com autonomia</td>
+    <td>Programa de SDLC seguro, métricas de risco, ownership de controles, segurança em arquitetura e APIs em escala</td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -99,12 +127,12 @@ const chefe = {
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=melky-yc&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melky-yc&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark"
     alt="Linguagens mais usadas"
   />
 </p>
@@ -112,7 +140,7 @@ const chefe = {
 <p align="center">
   <img
     height="170"
-    src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=melky-yc&amp;theme=github-dark&amp;hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -122,9 +150,9 @@ const chefe = {
 <h2>📌 Em construção agora</h2>
 
 <ul>
-  <li>Projetos Full Stack com foco em <b>autenticação</b> e <b>controle de acesso</b></li>
-  <li>Implementações com <b>validação</b> correta e <b>tratamento de erros</b> limpo</li>
-  <li>Labs e estudos aplicados de <b>WebSec/AppSec</b> (com writeups)</li>
+  <li><b>Projetos AppSec:</b> app web com auth + RBAC, validação forte, rate-limit e logs (com writeup do porquê).</li>
+  <li><b>APIs seguras:</b> endpoints com autorização correta (sem IDOR), erros limpos e auditoria.</li>
+  <li><b>IAM:</b> modelos de permissão e fluxos de aprovação (visão prática de governança).</li>
 </ul>
 
 <hr/>
@@ -133,7 +161,7 @@ const chefe = {
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0B1220&color=C9D1D9&line=1E90FF&point=1E90FF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&amp;bg_color=0B1220&amp;color=C9D1D9&amp;line=1E90FF&amp;point=1E90FF&amp;area=true&amp;hide_border=true"
     alt="Gráfico de atividade"
   />
 </p>
@@ -143,21 +171,23 @@ const chefe = {
 <h2>💬 Vamos nos conectar</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn%20%7C%20Carreira-0A3D62?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/melchisedeksl" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn%20%7C%20Carreira-0A3D62?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
-  <a href="https://github.com/SEUUSUARIO" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub%20%7C%20Reposit%C3%B3rios-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/melky-yc" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20%7C%20Reposit%C3%B3rios-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:SEUEMAIL@gmail.com">SEUEMAIL@gmail.com</a>
+  📧 <b>Email:</b> <a href="mailto:melchisedeksl@gmail.com">melchisedeksl@gmail.com</a><br/>
+  📍 <b>Base:</b> Teresina, PI — Brasil
 </p>
 
 <!-- BANNER RODAPÉ (AZUL DEFESA) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Security%20by%20Design&fontColor=FFFFFF&fontSize=32&color=0:0B1220,50:0A3D62,100:1E90FF"
+    src="https://capsule-render.vercel.app/api?type=rect&amp;height=120&amp;text=Security%20by%20Design&amp;fontColor=FFFFFF&amp;fontSize=32&amp;color=0:0B1220,50:0A3D62,100:1E90FF"
+    alt="Footer Banner"
   />
 </p>
