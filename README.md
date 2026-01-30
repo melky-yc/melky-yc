@@ -49,30 +49,7 @@
 
 ---
 
-<h2>🧭 Plano de carreira (centrado em AppSec)</h2>
-
-<table>
-  <tr>
-    <th align="left">Horizonte</th>
-    <th align="left">Meta</th>
-    <th align="left">Foco prático</th>
-  </tr>
-  <tr>
-    <td><b>0–6 meses</b></td>
-    <td>Base sólida em AppSec + IAM</td>
-    <td>OWASP Top 10, API Security, hardening de sessão, RBAC e writeups</td>
-  </tr>
-  <tr>
-    <td><b>6–12 meses</b></td>
-    <td>Referência em segurança no produto</td>
-    <td>Threat modeling simples, checklist secure coding, testes de API</td>
-  </tr>
-  <tr>
-    <td><b>12–24 meses</b></td>
-    <td>AppSec Engineer (Junior)</td>
-    <td>SAST/DAST, revisão de PR, mitigação de IDOR, padrões de autenticação</td>
-  </tr>
-</table>
+<h2>🧭 Plano de carreira (simples e direto)</h2> <table> <tr> <th align="left">Horizonte</th> <th align="left">Meta</th> <th align="left">Foco prático (projetos/entregas)</th> </tr> <tr> <td><b>Agora (0–6 meses)</b></td> <td>Consolidar base AppSec + IAM</td> <td>Políticas de acesso, revisão de permissões, hardening de sessão, OWASP Top 10 + OWASP API Security com writeups</td> </tr> <tr> <td><b>6–12 meses</b></td> <td>Virar referência “segurança no produto”</td> <td>Checklist de secure coding, threat modeling simples, testes de API, logs/alertas e documentação interna</td> </tr> <tr> <td><b>12–24 meses</b></td> <td>Transição natural para AppSec Engineer (junior)</td> <td>Pipeline com SAST/DAST, revisão de PR focada em segurança, RBAC/ABAC, mitigação de IDOR, padrões de auth</td> </tr> <tr> <td><b>24+ meses</b></td> <td>AppSec Engineer com autonomia</td> <td>Programa de SDLC seguro, métricas de risco, ownership de controles, segurança em arquitetura e APIs em escala</td> </tr> </table>
 
 ---
 
