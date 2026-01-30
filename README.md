@@ -27,7 +27,7 @@
   <a href="mailto:melchisedeksl@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
-  <a href="https://github.com/SEUUSUARIO" target="_blank" rel="noreferrer">
+  <a href="https://github.com/melky-yc" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
@@ -44,28 +44,28 @@
 <h2>🧠 Sobre mim</h2>
 
 <ul>
-  <li><b>Perfil:</b> Estudante de Ciência da Computação com foco em <b>Application Security</b> e <b>controle de acessos (IAM)</b>, atuando em <b>ambiente governamental crítico</b>. </li>
-  <li><b>Atuação atual:</b> Estágio em Segurança operacional de sistemas, <b>gestão de identidades e permissões</b>, integridade de aplicações e mitigação de riscos com atenção à <b>LGPD</b>. </li>
-  <li><b>Estudos aplicados:</b> <b>OWASP Top 10</b> e <b>OWASP API Security</b> com visão preventiva baseada em falhas técnicas e de lógica.</li>
-  <li><b>Experiência complementar:</b> Desenvolvimento web (front/back) e base em programação (<b>Python</b> e <b>Web</b>) para automação e melhoria contínua.</li>
+  <li><b>Perfil:</b> Estudante de Ciência da Computação com foco em <b>Application Security</b> e <b>IAM (controle de acessos)</b>, atuando em <b>ambiente governamental crítico</b>.</li>
+  <li><b>Atuação atual:</b> Estágio em segurança operacional de sistemas, gestão de identidades e permissões, integridade de aplicações e mitigação de riscos com atenção à <b>LGPD</b>.</li>
+  <li><b>Estudos aplicados:</b> <b>OWASP Top 10</b> e <b>OWASP API Security</b>, com análise de falhas técnicas e de lógica.</li>
+  <li><b>Experiência complementar:</b> Desenvolvimento web (frontend e backend) e programação (<b>Python</b> e <b>Web</b>) como base para segurança aplicada.</li>
 </ul>
 
 <pre>
 const chefe = {
   nome: "Melchisedek Lima",
-  foco: ["Application Security", "IAM (Controle de Acessos)", "Web Security"],
+  foco: ["Application Security", "IAM", "Web Security"],
   contexto: "Ambiente governamental crítico",
-  base: ["Python", "Web (HTML/CSS/JS)", "APIs", "Automação"],
+  base: ["Python", "HTML/CSS/JS", "APIs", "Automação"],
   norte: "Security by design + menor privilégio + validação forte + observabilidade"
 };
 </pre>
 
 <hr/>
 
-<h2>🧩 Stack (experiência real + foco em AppSec)</h2>
+<h2>🧩 Stack (experiência real)</h2>
 
 <div align="center">
-  <h4>🌐 Frontend </h4>
+  <h4>🌐 Frontend</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
   <h4>🧱 Backend</h4>
@@ -83,77 +83,37 @@ const chefe = {
 <h2>🔐 Foco técnico (AppSec + IAM)</h2>
 
 <ul>
-  <li><b>IAM na prática:</b> criação/alteração/revogação de acessos, revisão de permissões, <b>menor privilégio</b> e rastreabilidade.</li>
-  <li><b>Segurança de aplicações web:</b> OWASP Top 10, falhas de lógica, validação de entradas, sessões e controle de acesso.</li>
-  <li><b>Segurança de APIs:</b> autenticação/autorização, erros padronizados, rate-limit, logging seguro e mitigação de abuso.</li>
+  <li><b>IAM:</b> criação, alteração e revogação de acessos, revisão de permissões, menor privilégio e rastreabilidade.</li>
+  <li><b>Web/AppSec:</b> OWASP Top 10, falhas de lógica, sessões, autenticação e controle de acesso.</li>
+  <li><b>APIs:</b> autorização correta (sem IDOR), rate limit, logging seguro e tratamento consistente de erros.</li>
 </ul>
 
 <hr/>
 
-<h2>🧭 Plano de carreira (simples e direto)</h2>
+<h2>🧭 Plano de carreira (centrado em AppSec)</h2>
 
 <table>
   <tr>
     <th align="left">Horizonte</th>
     <th align="left">Meta</th>
-    <th align="left">Foco prático (projetos/entregas)</th>
+    <th align="left">Foco prático</th>
   </tr>
   <tr>
-    <td><b>Agora (0–6 meses)</b></td>
-    <td>Consolidar base AppSec + IAM</td>
-    <td>Políticas de acesso, revisão de permissões, hardening de sessão, OWASP Top 10 + OWASP API Security com writeups</td>
+    <td><b>0–6 meses</b></td>
+    <td>Base sólida em AppSec + IAM</td>
+    <td>OWASP Top 10, API Security, hardening de sessão, RBAC e writeups</td>
   </tr>
   <tr>
     <td><b>6–12 meses</b></td>
-    <td>Virar referência “segurança no produto”</td>
-    <td>Checklist de secure coding, threat modeling simples, testes de API, logs/alertas e documentação interna</td>
+    <td>Referência em segurança no produto</td>
+    <td>Threat modeling simples, checklist secure coding, testes de API</td>
   </tr>
   <tr>
     <td><b>12–24 meses</b></td>
-    <td>Transição natural para AppSec Engineer (junior)</td>
-    <td>Pipeline com SAST/DAST, revisão de PR focada em segurança, RBAC/ABAC, mitigação de IDOR, padrões de auth</td>
-  </tr>
-  <tr>
-    <td><b>24+ meses</b></td>
-    <td>AppSec Engineer com autonomia</td>
-    <td>Programa de SDLC seguro, métricas de risco, ownership de controles, segurança em arquitetura e APIs em escala</td>
+    <td>AppSec Engineer (Junior)</td>
+    <td>SAST/DAST, revisão de PR, mitigação de IDOR, padrões de autenticação</td>
   </tr>
 </table>
-
-<hr/>
-
-<h2>📊 GitHub (stats)</h2>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=melky-yc&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark"
-    alt="GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melky-yc&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark"
-    alt="Linguagens mais usadas"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=melky-yc&amp;theme=github-dark&amp;hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<hr/>
-
-<h2>📌 Em construção agora</h2>
-
-<ul>
-  <li><b>Projetos AppSec:</b> app web com auth + RBAC, validação forte, rate-limit e logs (com writeup do porquê).</li>
-  <li><b>APIs seguras:</b> endpoints com autorização correta (sem IDOR), erros limpos e auditoria.</li>
-  <li><b>IAM:</b> modelos de permissão e fluxos de aprovação (visão prática de governança).</li>
-</ul>
 
 <hr/>
 
@@ -161,7 +121,7 @@ const chefe = {
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&amp;bg_color=0B1220&amp;color=C9D1D9&amp;line=1E90FF&amp;point=1E90FF&amp;area=true&amp;hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=melky-yc&amp;bg_color=0B1220&amp;color=C9D1D9&amp;line=1E90FF&amp;point=1E90FF&amp;area=true&amp;hide_border=true"
     alt="Gráfico de atividade"
   />
 </p>
@@ -184,7 +144,7 @@ const chefe = {
   📍 <b>Base:</b> Teresina, PI — Brasil
 </p>
 
-<!-- BANNER RODAPÉ (AZUL DEFESA) -->
+<!-- BANNER RODAPÉ -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&amp;height=120&amp;text=Security%20by%20Design&amp;fontColor=FFFFFF&amp;fontSize=32&amp;color=0:0B1220,50:0A3D62,100:1E90FF"
