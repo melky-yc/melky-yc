@@ -49,11 +49,30 @@
 
 ---
 
-<h2>🧭 Plano de carreira (AppSec)</h2>
+<h2>🧭 Plano de carreira (centrado em AppSec)</h2>
 
-- 📌 <strong>Agora:</strong> consolidar AppSec + IAM com projetos práticos e writeups  
-- 📌 <strong>Próximo passo:</strong> AppSec Engineer Jr focado em APIs, RBAC e secure coding  
-- 📌 <strong>Objetivo:</strong> segurança integrada ao SDLC, não segurança “depois do incidente”  
+<table>
+  <tr>
+    <th align="left">Horizonte</th>
+    <th align="left">Meta</th>
+    <th align="left">Foco prático</th>
+  </tr>
+  <tr>
+    <td><b>0–6 meses</b></td>
+    <td>Base sólida em AppSec + IAM</td>
+    <td>OWASP Top 10, API Security, hardening de sessão, RBAC e writeups</td>
+  </tr>
+  <tr>
+    <td><b>6–12 meses</b></td>
+    <td>Referência em segurança no produto</td>
+    <td>Threat modeling simples, checklist secure coding, testes de API</td>
+  </tr>
+  <tr>
+    <td><b>12–24 meses</b></td>
+    <td>AppSec Engineer (Junior)</td>
+    <td>SAST/DAST, revisão de PR, mitigação de IDOR, padrões de autenticação</td>
+  </tr>
+</table>
 
 ---
 
