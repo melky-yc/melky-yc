@@ -96,16 +96,6 @@ const chefe = {
 
 <hr/>
 
-<h2>📈 Atividade</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=melky-yc&amp;bg_color=0B1220&amp;color=C9D1D9&amp;line=1E90FF&amp;point=1E90FF&amp;area=true&amp;hide_border=true"
-    alt="Gráfico de atividade"
-  />
-</p>
-
-<hr/>
 
 <h2>💬 Vamos nos conectar</h2>
 
