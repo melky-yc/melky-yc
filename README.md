@@ -66,7 +66,7 @@ const chefe = {
 
 <div align="center">
   <h4>🌐 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
 
   <h4>🧱 Backend</h4>
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,java" />
