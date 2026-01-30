@@ -27,7 +27,7 @@
 
 ---
 
-<h2>🔎 Foco técnico (vida real)</h2>
+<h2>🔎 Foco técnico</h2>
 
 - 🔑 **IAM:** controle de acessos, revisão de permissões, menor privilégio e rastreabilidade  
 - 🧠 **AppSec:** falhas de lógica, autenticação, sessões, IDOR, validação de entradas  
