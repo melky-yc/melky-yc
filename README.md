@@ -8,7 +8,7 @@
 <h1>🔐 Sobre mim</h1>
 
 - 🎓 <strong>Estudante</strong> de Ciência da Computação  
-- 🏛️ <strong>Estagiário de TI</strong> em ambiente governamental crítico  
+- 🏛️ <strong>Estagiário de TI</strong> na <a href="https://medsafebrasil.com.br" target="_blank">Medsafe Brasil</a>
 - 🔐 Atuação com <strong>Application Security</strong>, <strong>IAM</strong> e <strong>Web Security</strong>  
 - 🌐 Experiência em <strong>desenvolvimento web (front e back)</strong> como base para segurança aplicada  
 - 📚 Estudo contínuo de <strong>OWASP Top 10</strong> e <strong>OWASP API Security</strong>  
