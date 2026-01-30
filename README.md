@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B;Pode+me+chamar+de+Chefe.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Application+Security+%26+IAM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&width=520&lines=Ol%C3%A1!+%F0%9F%91%8B;Pode+me+chamar+de+Melky.;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Foco+em+Application+Security+%26+IAM)](https://git.io/typing-svg)
 
 <h1>🔐 Sobre mim</h1>
 
