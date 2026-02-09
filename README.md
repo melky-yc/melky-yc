@@ -38,7 +38,7 @@
 
 <h2>📈 GitHub</h2>
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melky-yc&show_icons=true&theme=transparent)"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melky-yc)](https://github.com/melky-yc/github-readme-stats)
 
 ---
 
