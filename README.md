@@ -38,14 +38,7 @@
 
 <h2>📈 GitHub</h2>
 
-<div align="center">
-  <img width="49%" height="190px"
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melky-yc&show_icons=true&theme=transparent)"
-  />
-  <img width="41%" height="190px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melky-yc&layout=compact&hide_border=true&theme=github_dark"
-  />
-</div>
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melky-yc&show_icons=true&theme=transparent)"
 
 ---
 
