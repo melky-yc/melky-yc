@@ -1,38 +1,50 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;text=Melchisedek%20%7C%20Lima&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=35&amp;fontSize=54&amp;desc=Estagi%C3%A1rio%20de%20TI%20%7C%20Application%20Security%20%7C%20IAM%20%7C%20Web%20Security&amp;descAlign=50&amp;descAlignY=62&amp;animation=twinkling&amp;color=0:0B1220,50:0A3D62,100:1E90FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Engenharia%20de%20Software%20%7C%20Backend%20%7C%20Sistemas%20Web&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
     alt="Banner"
   />
 </p>
 
-<h1>🔐 Sobre mim</h1>
+<h1>👨‍💻 Sobre mim</h1>
 
-- 🎓 <strong>Estudante</strong> de Ciência da Computação na <a href="https://www.uninassau.edu.br/" target="_blank">UNINASSAU
-- 🏛️ <strong>Estagiário de TI</strong> na <a href="https://medsafebrasil.com.br" target="_blank">Medsafe Brasil</a>
-- 🔐 Atuação com <strong>Application Security</strong>, <strong>IAM</strong> e <strong>Web Security</strong>  
-- 🌐 Experiência em <strong>desenvolvimento web (front e back)</strong> como base para segurança aplicada  
-- 📚 Estudo contínuo de <strong>OWASP Top 10</strong> e <strong>OWASP API Security</strong>  
+- 🎓 <strong>Estudante</strong> de Ciência da Computação — UNINASSAU  
+- 🏢 <strong>Estagiário de TI</strong> na Medsafe Brasil  
+- 🧩 Atuação com <strong>Engenharia de Software</strong>, análise de sistemas e desenvolvimento de soluções internas  
+- ⚙️ Experiência prática no desenvolvimento de <strong>sistemas web fullstack</strong>, com foco em backend, regras de negócio e modelagem de dados  
+- 🔐 Conhecimentos em <strong>segurança de aplicações</strong> aplicados como diferencial técnico ao desenvolvimento  
 
-> Meu foco é simples: **entender como aplicações quebram para saber como protegê-las desde o design.**
+> Meu foco é construir **software que resolva problemas reais**, com base sólida, clareza arquitetural e preocupação com manutenção e evolução do sistema.
 
 ---
 
-<h2>🛠️ Tecnologias & Experiência</h2>
+<h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=kali,js,angular,c,cpp,py,nodejs,java,mysql,sqlite,vscode,git,github,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,postgres,mysql,sqlite,git,github,vscode)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<h2>🔎 Foco técnico</h2>
+<h2>🧠 Atuação técnica</h2>
 
-- 🔑 **IAM:** controle de acessos, revisão de permissões, menor privilégio e rastreabilidade  
-- 🧠 **AppSec:** falhas de lógica, autenticação, sessões, IDOR, validação de entradas  
-- 🌐 **Web Security:** OWASP Top 10 aplicado no código  
-- 🔌 **APIs:** autorização correta, rate limit, logging seguro e tratamento de erros  
+- 🧩 **Engenharia de Software:** análise de requisitos, regras de negócio e estruturação de soluções  
+- ⚙️ **Backend:** APIs REST, lógica de aplicação, integração com banco de dados  
+- 🗄️ **Dados:** modelagem relacional, integridade e organização de informações  
+- 🌐 **Fullstack:** integração frontend ↔ backend com foco em funcionalidade e clareza  
+- 🔐 **Segurança aplicada:** validação de dados, controle de acesso e boas práticas no ciclo de desenvolvimento  
+
+---
+
+<h2>🚀 Projetos em destaque</h2>
+
+- 📌 **Sistema interno de controle de atendimentos de suporte**  
+  - Software fullstack desenvolvido para resolver a falta de rastreabilidade e organização dos atendimentos internos  
+  - Stack: Next.js + Supabase  
+  - Envolveu levantamento de requisitos, modelagem de dados, regras de negócio e desenvolvimento frontend/backend  
+
+*(Outros projetos podem ser adicionados aqui conforme evolução)*
 
 ---
 
@@ -42,7 +54,30 @@
 
 ---
 
-<h2>🧭 Plano de carreira </h2> <table> <tr> <th align="left">Horizonte</th> <th align="left">Meta</th> <th align="left">Foco prático (projetos/entregas)</th> </tr> <tr> <td><b>Agora (0–6 meses)</b></td> <td>Consolidar base AppSec + IAM</td> <td>Políticas de acesso, revisão de permissões, hardening de sessão, OWASP Top 10 + OWASP API Security com writeups</td> </tr> <tr> <td><b>6–12 meses</b></td> <td>Virar referência “segurança no produto”</td> <td>Checklist de secure coding, threat modeling simples, testes de API, logs/alertas e documentação interna</td> </tr> <tr> <td><b>12–24 meses</b></td> <td>Transição natural para AppSec Engineer (junior)</td> <td>Pipeline com SAST/DAST, revisão de PR focada em segurança, RBAC/ABAC, mitigação de IDOR, padrões de auth</td> </tr> <tr> <td><b>24+ meses</b></td> <td>AppSec Engineer com autonomia</td> <td>Programa de SDLC seguro, métricas de risco, ownership de controles, segurança em arquitetura e APIs em escala</td> </tr> </table>
+<h2>🧭 Direcionamento profissional</h2>
+
+<table>
+  <tr>
+    <th align="left">Horizonte</th>
+    <th align="left">Objetivo</th>
+    <th align="left">Foco prático</th>
+  </tr>
+  <tr>
+    <td><b>Curto prazo</b></td>
+    <td>Consolidar base em Engenharia de Software</td>
+    <td>Backend, modelagem de dados, APIs e sistemas reais</td>
+  </tr>
+  <tr>
+    <td><b>Médio prazo</b></td>
+    <td>Aprofundar arquitetura e qualidade</td>
+    <td>Refatoração, testes, boas práticas e documentação</td>
+  </tr>
+  <tr>
+    <td><b>Longo prazo</b></td>
+    <td>Engenharia de Software com foco em segurança</td>
+    <td>Desenvolvimento seguro, arquitetura e sistemas escaláveis</td>
+  </tr>
+</table>
 
 ---
 
