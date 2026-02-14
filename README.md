@@ -1,82 +1,96 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Software%20Engineering%20%7C%20Backend%20Architecture%20%7C%20Web%20Systems&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Software%20Architecture&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
     alt="Banner"
   />
 </p>
 
-<h1>Engenharia de Software aplicada a sistemas reais</h1>
+<h1 align="center">Backend Engineering com Java</h1>
 
-Sou estudante de Ciência da Computação e atuo como estagiário de TI, com foco em desenvolvimento de sistemas web orientados a regras de negócio, modelagem de dados e backend estruturado.
-
-Meu direcionamento profissional é claro: evoluir como Engenheiro de Software com base sólida em arquitetura, qualidade e segurança de aplicações.
+<p align="center">
+Desenvolvimento de sistemas robustos, orientados a regras de negócio, modelagem consistente de dados e arquitetura sustentável.
+</p>
 
 ---
 
-<h2>📌 Foco Técnico</h2>
+## 👨‍💻 Sobre mim
 
-- Arquitetura de aplicações web
-- Modelagem relacional e integridade de dados
-- Desenvolvimento de APIs REST
+Sou estudante de Ciência da Computação e atuo com desenvolvimento de sistemas internos voltados à organização de processos e estruturação de dados.
+
+Meu foco profissional é claro:
+
+> Tornar-me Engenheiro Backend especializado em Java, arquitetura de sistemas e desenvolvimento seguro.
+
+Trabalho com mentalidade de engenharia: clareza estrutural, responsabilidade técnica e evolução contínua.
+
+---
+
+## 🎯 Foco Técnico
+
+- Desenvolvimento Backend com **Java**
+- Construção de APIs REST
+- Modelagem relacional com PostgreSQL
 - Estruturação de regras de negócio
-- Segurança aplicada ao ciclo de desenvolvimento
+- Arquitetura em camadas
+- Segurança aplicada ao backend
 
 ---
 
-<h2>🛠 Stack Principal</h2>
+## 🛠 Stack Principal
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,java,postgres,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,git,github,vscode)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<h2>🚀 Projeto em Evidência</h2>
+## 🚀 Projeto em Produção
 
-<h3>📊 Sistema de Gestão de Atendimentos (uso corporativo)</h3>
+### 📊 Sistema de Gestão de Atendimentos (Uso Corporativo)
 
-Aplicação web fullstack desenvolvida para resolver ausência de rastreabilidade, padronização e análise gerencial de chamados internos.
+Sistema desenvolvido para resolver problemas reais de rastreabilidade e controle de chamados internos.
 
-Principais responsabilidades técnicas:
+Responsabilidades técnicas:
 
 - Levantamento e estruturação de requisitos
-- Modelagem de banco relacional (PostgreSQL)
+- Modelagem de banco relacional
 - Implementação de regras de negócio
-- API e integração frontend/backend
-- Controle de acesso via RLS (Row Level Security)
-- Dashboard com indicadores operacionais
-- Geração de relatórios (diário, mensal, anual)
+- Integração com banco PostgreSQL
+- Controle de acesso e integridade de dados
+- Geração de relatórios operacionais
 
-Stack utilizada:
-Next.js • TypeScript • Supabase • PostgreSQL
+O sistema está em uso real e passou por ciclos de melhoria incremental.
 
 ---
 
-<h2>📈 Indicadores Técnicos</h2>
+## 📚 Em evolução contínua
 
-- Experiência prática com sistema em produção
-- Versionamento estruturado com Git
-- Deploy em ambiente real
-- Evolução incremental orientada a melhoria contínua
+Atualmente aprofundando em:
+
+- Estruturas de Dados em Java
+- Padrões de Projeto
+- Arquitetura Backend
+- Clean Code
+- Desenvolvimento Seguro
 
 ---
 
-<h2>🎯 Roadmap Profissional</h2>
+## 📈 Direcionamento Profissional
 
 Curto prazo:
-Aprofundamento em backend e arquitetura
+Consolidar domínio de Java Backend e modelagem robusta.
 
 Médio prazo:
-Qualidade de software, testes automatizados e refatoração
+Arquitetura de sistemas, testes automatizados e qualidade de código.
 
 Longo prazo:
-Engenharia de Software com foco em segurança e sistemas escaláveis
+Engenharia de Software com foco em sistemas escaláveis e segurança.
 
 ---
 
-<h2>📫 Contato</h2>
+## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/melchisedeksl  
 Email: melchisedeksl@gmail.com
