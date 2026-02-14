@@ -40,7 +40,7 @@ Trabalho com mentalidade de engenharia: clareza estrutural, responsabilidade té
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,github,vscode,idea)](https://skillicons.dev)
 
 </div>
 
