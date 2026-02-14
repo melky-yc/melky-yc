@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Frontend%20EDeveloper%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
     alt="Banner"
   />
 </p>
