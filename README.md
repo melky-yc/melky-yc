@@ -1,42 +1,37 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Melchisedek%20Lima&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=54&desc=Backend%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Node.js%20%7C%20PostgreSQL&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0A3D62,100:1E90FF"
     alt="Banner"
   />
 </p>
 
-<h1 align="center">Frontend Engineering com React & Next.js</h1>
+<h1 align="center">Backend Software Engineering</h1>
 
 <p align="center">
-Construção de aplicações web modernas, performáticas e orientadas a produto, com foco em arquitetura de frontend e experiência do usuário.
+Desenvolvimento de sistemas web com foco em backend, lógica de negócio, APIs e persistência de dados.
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação (3º período) e desenvolvedor com experiência prática na construção de aplicações web utilizadas em ambiente corporativo.
+Sou estudante de Ciência da Computação (3º período) e desenvolvedor com experiência prática na construção de sistemas web utilizados em ambiente corporativo.
 
-Minha especialização está em engenharia de frontend, com foco em:
+Atuo com foco em backend, trabalhando com lógica de negócio, modelagem de dados, integração entre sistemas e construção de APIs. Tenho experiência real em projetos usados em produção, lidando com requisitos, regras de negócio e evolução contínua de sistemas.
 
-- Arquitetura escalável
-- Componentização consistente
-- Performance e otimização
-- Estruturação clara de estados e regras de interface
-
-Atuo com mentalidade de engenharia: organização estrutural, clareza de código e evolução contínua.
+Meu foco é engenharia de software aplicada, com código limpo, estrutura clara e decisões técnicas bem fundamentadas.
 
 ---
 
 ## 🎯 Foco Técnico
 
-- Desenvolvimento Frontend com **React e Next.js**
-- TypeScript avançado
-- Arquitetura baseada em features
-- Design Systems e componentização
-- Otimização de performance (memoization, code splitting, Web Vitals)
-- Integração com APIs REST
-- Modelagem e consumo de dados
+- Desenvolvimento backend com **Java e Spring Boot**
+- Construção de **APIs REST**
+- Lógica de negócio e validação de dados
+- Modelagem de dados relacionais
+- Integração entre backend e frontend
+- Versionamento com Git e GitHub
+- Noções de arquitetura de sistemas web
 
 ---
 
@@ -44,7 +39,7 @@ Atuo com mentalidade de engenharia: organização estrutural, clareza de código
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,tailwind,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,postgres,git,github,docker)](https://skillicons.dev)
 
 </div>
 
@@ -54,19 +49,18 @@ Atuo com mentalidade de engenharia: organização estrutural, clareza de código
 
 ### 📊 Sistema de Gestão de Atendimentos (Uso Corporativo)
 
-Aplicação web desenvolvida para resolver problemas reais de rastreabilidade e organização de chamados internos.
+Sistema web desenvolvido para organização e rastreabilidade de chamados internos em ambiente organizacional real.
 
-Responsabilidades técnicas no frontend:
+Responsabilidades técnicas:
 
-- Estruturação completa da interface
-- Criação de dashboards analíticos
-- Componentização reutilizável
-- Implementação de filtros dinâmicos e relatórios
-- Integração com backend (Supabase / PostgreSQL)
-- Organização de estados e fluxos de dados
-- Responsividade e consistência visual
+- Levantamento de requisitos e regras de negócio
+- Modelagem de dados com PostgreSQL
+- Construção de APIs REST
+- Integração entre backend e frontend
+- Estruturação de fluxos de dados e validações
+- Evolução contínua baseada em uso real
 
-O sistema encontra-se em uso real e passou por ciclos de melhoria incremental.
+Projeto em uso ativo, com impacto direto nos processos internos da organização.
 
 ---
 
@@ -74,25 +68,25 @@ O sistema encontra-se em uso real e passou por ciclos de melhoria incremental.
 
 Atualmente aprofundando em:
 
-- Fundamentos internos do React (renderização e reconciliação)
-- Performance em aplicações Next.js
-- Arquitetura de frontend escalável
-- Design Systems
-- Estruturas de dados aplicadas ao frontend
-- Clean Code aplicado à camada de interface
+- Java e ecossistema Spring
+- Arquitetura de aplicações backend
+- APIs REST e boas práticas
+- Modelagem de dados e SQL
+- Estruturas de dados e algoritmos
+- Clean Code e princípios de engenharia de software
 
 ---
 
 ## 📈 Direcionamento Profissional
 
-Curto prazo:
-Consolidar domínio avançado de React, Next.js e TypeScript.
+Curto prazo:  
+Consolidar base sólida em Java, Spring Boot e PostgreSQL.
 
-Médio prazo:
-Especialização em arquitetura frontend e performance de aplicações.
+Médio prazo:  
+Atuar como Backend Software Engineer em sistemas de médio e grande porte.
 
-Longo prazo:
-Engenharia de Software com foco em construção de produtos digitais escaláveis.
+Longo prazo:  
+Engenharia de software com foco em arquitetura e sistemas escaláveis.
 
 ---
 
