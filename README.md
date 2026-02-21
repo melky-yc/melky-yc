@@ -8,30 +8,38 @@
 <h1 align="center">Backend Software Engineering</h1>
 
 <p align="center">
-Desenvolvimento de sistemas web com foco em backend, lógica de negócio, APIs e persistência de dados.
+Construção de sistemas backend orientados a regras de negócio, consistência de dados e arquitetura bem estruturada.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre
 
-Sou estudante de Ciência da Computação (3º período) e desenvolvedor com experiência prática na construção de sistemas web utilizados em ambiente corporativo.
+Estudante de Ciência da Computação (3º período) e Desenvolvedor Full Stack com direcionamento estratégico para Backend Software Engineering.
 
-Atuo com foco em backend, trabalhando com lógica de negócio, modelagem de dados, integração entre sistemas e construção de APIs. Tenho experiência real em projetos usados em produção, lidando com requisitos, regras de negócio e evolução contínua de sistemas.
+Atuo na construção e evolução de sistemas web corporativos, com foco em:
 
-Meu foco é engenharia de software aplicada, com código limpo, estrutura clara e decisões técnicas bem fundamentadas.
+- Modelagem de dados relacionais
+- Implementação de APIs REST
+- Organização arquitetural em camadas (Controller, Service, Repository)
+- Estruturação de regras de negócio
+- Integração entre sistemas
+
+Tenho experiência prática em sistemas utilizados em ambiente organizacional real, conduzindo desde levantamento de requisitos até implementação backend e evolução baseada em uso operacional.
+
+Meu objetivo é consolidar domínio sólido em engenharia backend, priorizando clareza arquitetural, manutenibilidade e escalabilidade.
 
 ---
 
 ## 🎯 Foco Técnico
 
 - Desenvolvimento backend com **Java e Spring Boot**
-- Construção de **APIs REST**
-- Lógica de negócio e validação de dados
-- Modelagem de dados relacionais
-- Integração entre backend e frontend
-- Versionamento com Git e GitHub
-- Noções de arquitetura de sistemas web
+- Estruturação de APIs REST robustas
+- Persistência relacional com **PostgreSQL e MySQL**
+- Validação de dados e regras de negócio
+- Integração frontend ↔ backend
+- Organização modular e separação de responsabilidades
+- Versionamento e fluxo colaborativo com Git
 
 ---
 
@@ -39,58 +47,63 @@ Meu foco é engenharia de software aplicada, com código limpo, estrutura clara 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,postgres,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,postgres,git,github,docker,angular,react)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🚀 Projeto em Produção
+## 🚀 Experiência Relevante
 
-### 📊 Sistema de Gestão de Atendimentos (Uso Corporativo)
+### 📊 Taskflow Reports — Sistema Corporativo Interno
 
-Sistema web desenvolvido para organização e rastreabilidade de chamados internos em ambiente organizacional real.
+Sistema desenvolvido para gestão e rastreabilidade de chamados técnicos em ambiente organizacional real.
 
 Responsabilidades técnicas:
 
-- Levantamento de requisitos e regras de negócio
-- Modelagem de dados com PostgreSQL
-- Construção de APIs REST
-- Integração entre backend e frontend
-- Estruturação de fluxos de dados e validações
-- Evolução contínua baseada em uso real
+- Levantamento e tradução de requisitos em regras de negócio
+- Modelagem e estruturação de banco relacional
+- Desenvolvimento de APIs REST com Spring Boot
+- Implementação de camadas bem definidas (Controller, Service, Repository)
+- Integração com frontend React/Angular
+- Evolução contínua baseada em feedback operacional
+- Organização estrutural visando manutenção e escalabilidade
 
-Projeto em uso ativo, com impacto direto nos processos internos da organização.
+Sistema em uso ativo, com impacto direto na organização e visibilidade gerencial.
 
 ---
 
-## 📚 Em evolução contínua
+## 🧠 Engenharia e Fundamentos
 
-Atualmente aprofundando em:
+Aprofundando continuamente em:
 
-- Java e ecossistema Spring
-- Arquitetura de aplicações backend
-- APIs REST e boas práticas
-- Modelagem de dados e SQL
 - Estruturas de dados e algoritmos
-- Clean Code e princípios de engenharia de software
+- Arquitetura de software
+- Boas práticas REST
+- Clean Code
+- Padrões de projeto
+- Tratamento de erros e validação de payloads
+- Organização modular e desacoplamento
 
 ---
 
 ## 📈 Direcionamento Profissional
 
-Curto prazo:  
-Consolidar base sólida em Java, Spring Boot e PostgreSQL.
+**Curto prazo**
+Consolidar expertise técnica em Java, Spring Boot e PostgreSQL em ambiente corporativo.
 
-Médio prazo:  
-Atuar como Backend Software Engineer em sistemas de médio e grande porte.
+**Médio prazo**
+Atuar como Backend Software Engineer em sistemas de maior escala e complexidade.
 
-Longo prazo:  
-Engenharia de software com foco em arquitetura e sistemas escaláveis.
+**Longo prazo**
+Especialização em arquitetura backend e sistemas distribuídos.
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/melchisedeksl  
-Email: melchisedeksl@gmail.com
+LinkedIn:  
+https://www.linkedin.com/in/melchisedeksl  
+
+Email:  
+melchisedeksl@gmail.com
