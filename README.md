@@ -47,7 +47,7 @@ Meu objetivo é consolidar domínio sólido em engenharia backend, priorizando c
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,postgres,git,github,docker,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,java,spring,nodejs,postgres,mysql,git,github,gitlab,docker)](https://skillicons.dev)
 
 </div>
 
