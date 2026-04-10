@@ -98,5 +98,3 @@ https://www.linkedin.com/in/melchisedeksl
 
 Email  
 melchisedeksl@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melky-yc&size_weight=0.5&count_weight=0.5)
